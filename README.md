@@ -1,4 +1,6 @@
-<h2> Semáforo Desenvolvi esse semáforo utilizando HTML,CSS e Javascript. </h2> 
+<h2> Semáforo </h2> 
+
+Desenvolvi esse semáforo utilizando HTML,CSS e Javascript. 
 
 A estrutura foi realizada em HTML e a estilização em CSS. O Javascript foi de extrema utilizada para eu conseguir colocar o semáforo para funcionar na prática.
 
